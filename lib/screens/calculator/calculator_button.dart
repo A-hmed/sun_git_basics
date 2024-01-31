@@ -11,6 +11,7 @@ class CalculatorButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Expanded(
         child: Container(
+          color: Colors.blue,
           margin: const EdgeInsets.all(8),
           child: ElevatedButton(
               onPressed: () {
