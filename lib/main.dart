@@ -9,7 +9,7 @@ import 'package:sun_basics_flutter/screens/xo/splash.dart';
 void main() {
   runApp(MyApp());
 }
-
+// test commit from git hub
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
